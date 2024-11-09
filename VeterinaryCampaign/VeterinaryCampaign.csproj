@@ -25,4 +25,11 @@
         
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="CRM\Domain\Model\Aggregates\" />
+      <Folder Include="CRM\Domain\Model\Commands\" />
+      <Folder Include="CRM\Domain\Model\Queries\" />
+      <Folder Include="CRM\Domain\Model\ValueObjects\" />
+    </ItemGroup>
+
 </Project>
